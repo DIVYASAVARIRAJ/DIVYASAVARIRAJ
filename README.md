@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DIVYASAVARIRAJ
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning c++ and full stack development
+- 🌱 I’m currently learning full stack development at nxtwave
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
